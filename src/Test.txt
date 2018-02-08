@@ -4,3 +4,8 @@
 Random rand = new Random();
 int random= rand.nextInt(1000);
 
+Random c2 = new random();
+int random= c2.nextInt(900);
+
+Random c3 = new random();
+int random= c3.nextInt(49)+25;
