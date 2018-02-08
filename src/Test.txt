@@ -1,0 +1,6 @@
+1) printMessage();
+2) string
+3) int getNumber=5
+Random rand = new Random();
+int random= rand.nextInt(1000);
+
